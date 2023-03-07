@@ -1,0 +1,90 @@
+body {
+    background-color: #EDEDED;
+}
+
+.page-title {
+    background-color: white;
+    text-align: center;
+    border: solid;
+    margin: 20px 100px 20px 100px;
+    padding: 30px 0 30px 0;
+}
+
+.main-views {
+    margin: -20px 100px -20px 100px;
+    font-size: 20px;
+    background-color: #EA88D7;
+    padding: 5px 0 5px 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.page-title a {
+    color: green
+}
+
+.main-views a {
+    color: black
+    font-family: "Georgia";
+}
+
+.main-views a:hover {
+    color: white;
+}
+
+.container {
+    margin: 0 100px 0 100px;
+    background-color: white
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container h2 {
+    padding: 10px 0 10px 0;
+    text-align: center;
+}
+
+footer {
+    margin: -16px 100px -16px 100px;
+    padding: 5px;
+    background-color: #BFBFBF;
+}
+
+.container-contacts-page {
+    margin: 0 100px 0 100px;
+    background-color: white
+}
+
+.container-about-page {
+    margin: 0 100px 0 100px;
+    background-color: white
+}
+
+#contact-us {
+    margin: 0px 100px 0px 100px;
+    padding: 5px;
+    background-color: #BFBFBF;
+}
+
+input {
+    border-radius: 5px;
+    height: 20px;
+}
+
+textarea {
+    border-radius: 5px;
+    height: 100px;
+    width: 300px;
+}
+
+#send-message-button {
+    height: 30px;
+    background-color: #B3F99C;
+}
